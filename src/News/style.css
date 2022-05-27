@@ -1,0 +1,27 @@
+section {
+
+}
+
+#news_item {
+    background-color: red;
+    padding: 5%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#news_item_right {
+    
+}
+#news_item_right > p > span {
+    color: rgb(12, 139, 224);
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}

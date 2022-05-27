@@ -33,3 +33,12 @@ Course Outline
   a. screen-shot your terminal that shows you have completed all 10 challenges
   b. make sure your computer's home path is showing in the screenshot
   
+
+# Interface Component
+
+  - Top
+  - Navigation
+  - Hero
+  - Clips
+  - Exchange Market
+  - News
