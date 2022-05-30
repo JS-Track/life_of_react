@@ -1,5 +1,6 @@
 import News from "./News";
 import ExchangeMarket from "./ExchangeMarket";
+import Clips from "./Clips";
 // component
 /**
  * a js function that returns ui ( user interface )
@@ -12,6 +13,7 @@ function App() {
       <ExchangeMarket />
     
       <News />
+        <Clips/>
     
      
     </section>
