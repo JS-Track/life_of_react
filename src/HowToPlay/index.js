@@ -1,16 +1,15 @@
 import "./style.css";
+
+import {useState} from 'react'
 function HowToPlay(p) {
     console.log(p);
     // p.content = "Zi"
-    let toggle = false;
+  const [toggle, setToggle] = useState(false)
     p.rope("There is water")    
-  function changeToggle(){
-      toggle = !toggle
-  }
+
   return (
     <section id="htp">
-      <section onClick={() => console.log("sdfsdf")}> Test </section>
-      <button onClick={() => changeToggle}>How to play</button>
+      <button onClick={() => setToggle(!toggle)}>How to play</button>
       {toggle && (
         <p>
           To get under way, click 'Start'. Once you have started the quiz, type

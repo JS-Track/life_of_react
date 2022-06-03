@@ -1,0 +1,15 @@
+
+#collect button {
+    background-color: #fac826;
+    color: #000;
+    border-style: none;
+    padding: 2%;
+    
+}
+
+#collect p {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    padding: 2%;
+}

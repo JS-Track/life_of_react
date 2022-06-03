@@ -1,0 +1,8 @@
+
+
+States ( let )
+
+    - the value of state is allowed to change in a component
+    - when state changes, the component will re-render ( reload )
+
+How To Create A State

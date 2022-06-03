@@ -3,6 +3,8 @@ import ExchangeMarket from "./ExchangeMarket";
 import HowToPlay from "./HowToPlay";
 import ScoreKeeper from "./ScoreKeeper";
 import CountDown from "./CountDown";
+import CollectInput from "./CollectInput";
+import PlayersTable from "./PlayersTable";
 // component
 /**
  * a js function that returns ui ( user interface )
@@ -21,13 +23,12 @@ function App() {
       {/* <HowToPlay  content="Williams"/> */}
       {/* <HowToPlay content="Dreams" /> */}
       <HowToPlay content="Zinny" rope={bucket} />
-      {/* <ScoreKeeper /> */}
-      {/* <CountDown /> */}
-      {/* <ExchangeMarket /> */}
-    
-      {/* <News /> */}
-    
-     
+      <section id="tracking">
+        <ScoreKeeper />
+        <CountDown />
+      </section>
+    <CollectInput />
+    <PlayersTable />
     </section>
   );
 }
