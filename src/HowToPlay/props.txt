@@ -1,0 +1,27 @@
+
+
+Props
+properties
+parameter
+arguments
+
+function add ( a,b ){
+    return a + b
+}
+
+In react, we use props to pass data between components
+
+- pure function
+is a function with no side effect
+
+
+Rules of Interaction Between Components and Props
+ - the value of the props should not change
+ - a prop should only come from parent to child
+ - a child should not give data to parent 
+
+ Person == Parent 
+ Well == Child
+ Water = data
+ rope = props
+ bucket = function

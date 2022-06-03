@@ -1,0 +1,14 @@
+#htp button {
+    background-color: #000000;
+    color: aliceblue;
+    border-style: none;
+    padding: 2%;
+    
+}
+
+#htp p {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    padding: 2%;
+}
