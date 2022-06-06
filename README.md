@@ -1,11 +1,11 @@
 # Life of React - LoR
-
+`Check out this project's` [website](https://js-track.github.io/life_of_react/)
 ## Class Video Links
 1. [What is React Component](https://www.youtube.com/watch?v=CDHvgdMSacQ)
 2. 
 3.
 
-`Check out this project's [website](https://js-track.github.io/life_of_react/)`
+
 
 ## Course Outline
 1. Kilo Intro 
