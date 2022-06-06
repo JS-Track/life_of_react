@@ -5,9 +5,9 @@
 2. 
 3.
 
-Check out this project's [website](https://js-track.github.io/life_of_react/) 
+`Check out this project's [website](https://js-track.github.io/life_of_react/)`
 
-Course Outline
+## Course Outline
 1. Kilo Intro 
 - es6
 - component
